@@ -1,4 +1,4 @@
-# My Meteor app directory layout
+# My Meteor-React App directory layout
 
 - client/
 
