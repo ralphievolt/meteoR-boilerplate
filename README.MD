@@ -42,8 +42,16 @@
 
         containers/		            # react code to pass state to component composed using react-komposer
         
-- node_modules/	                # local app NPM packages
-- public/			            # fonts, images, icons, favicon
-- resources/		            # mobile icons and splash screens
+- node_modules/	                
+        
+        # local app NPM packages
+- public/
+        
+        # fonts, images, icons, favicon
+- resources/
+        
+        # mobile icons and splash screens
 
-# Run Meteor NPM install to update all node packages
+### Run Meteor NPM install to update all node packages
+
+#### for better & complete Meteor-React boilerplate goto https://github.com/themeteorchef/base
