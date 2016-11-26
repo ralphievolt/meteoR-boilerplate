@@ -1,0 +1,1 @@
+import '/imports/api/categories/index.js'
